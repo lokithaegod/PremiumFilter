@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "cinebuddy",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -19,23 +19,23 @@
     "repository": "https://github.com/TamilanBotsZ/PremiumFilter/Tamilans-Working-Branch",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "8754479382:AAEn077bGumZdFbuyCchZenABY1HAzKjRyU",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "a1cbbc1ed839e766e02f0f19b62d21af",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "37382152",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space.",
+            "description": "https://t.me/moviesstorebotmg",
             "required": false
         },
         "ADMINS": {
-            "description": "Username or ID of Admin. Separate multiple Admins by space.",
+            "description": "@Lo_ki_here",
             "required": true
         },
         "PICS": {
@@ -51,7 +51,7 @@
             "required": false
         },
         "AUTH_CHANNEL": {
-            "description": "ID of channel.Make sure bot is admin in this channel. Without subscribing this channel users cannot use bot.",
+            "description": "https://t.me/trymoviesgsllery",
             "required": false
         },
         "DATABASE_URI": {
